@@ -1,0 +1,20 @@
+1. Image Classification (Face to Attributes) -
+
+Face to Attributes model:
+https://colab.research.google.com/drive/1lagOzyswXY_F8WnK6LvsfcO3m-VsAIPY?usp=sharing
+
+2. Image Generation (Attributes to Face) -
+
+Finished DCGAN model:
+https://colab.research.google.com/drive/12zlL64fBIdqSnlXILmZebLD98SbOHtXw?usp=sharing
+
+Improve DCGAN model with intervals of 50 epochs:
+https://colab.research.google.com/drive/1c9NsCEiDvgR79a0HRmMH0-EKuplSqZjA?usp=sharing
+
+Check DCGAN model performance:
+https://colab.research.google.com/drive/1Gu9Hx3xvyQ8FTgbTy4fIJSqRKxEID2uy?usp=sharing
+
+3. Image Translation (Face to Face) - 
+
+StarGAN model:
+https://colab.research.google.com/drive/1qB-3zlQ3u4RkxIuMUdOJefQBLwR1Rc9e?usp=sharing
