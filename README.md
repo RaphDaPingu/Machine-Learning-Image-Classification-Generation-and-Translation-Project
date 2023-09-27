@@ -1,0 +1,1 @@
+iteration 1-7.rar archives contain .pth (PyTorch) image generation models for the second part of the project (parts detailed in the "links to various parts of the project.txt" file)
